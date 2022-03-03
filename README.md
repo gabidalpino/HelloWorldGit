@@ -1,0 +1,2 @@
+# HelloWorldGit
+Exercício 1 
